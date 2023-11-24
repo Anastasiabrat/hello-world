@@ -1,3 +1,3 @@
 # hello-world
 ## Hola Mundo realizado en clase
-## Seguimos probando en Github
+### Seguimos probando en Github
